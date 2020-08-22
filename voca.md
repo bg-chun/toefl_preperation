@@ -1,19 +1,19 @@
 # Words from the Official guide to the TOEFL Test fourth edition.
 
 ## Reading section
-- mass*, weight distribution
+### mass*, weight distribution
 
-- stress
+### stress
   - noun: pressure
 
-- rigid
+### rigid
   - adj: **inflexible**, strict
 
-- stretcher
+### stretcher
   - noun: A stretcher is a long piece of canvas with a pole along each side, which is used to carry an injured or sick person.
   - verb: If someone is stretchered somewhere, they are carried there on a stretcher.
 
-- taut
+### taut
   - adj: Something that is taut is stretched very tight.
   - adj: If someone has a taut expression, they look very worried and tense.
   - examples
@@ -22,7 +22,7 @@
     - Her face was taut and pale.
     - His body was solid and taut
     
-- deteriorate
+### deteriorate
   - my understanding
     - verb: something goes worse than before.
   - dic
@@ -31,7 +31,7 @@
     - The paint must not deteriorate, crack, or discolor.
     - Her health deteriorated rapidly, and she died shortly afterwards.
 
-- intrude
+### intrude
   - my understanding
     - verb: disturb or interrupt something
   - dic
@@ -42,13 +42,13 @@
     - The sound of the telephone intruded into his dreams.
     - I’m sorry to intrude, but I need to talk to someone. 
 
-- foreleg
+### foreleg
   - noun: four-legged animal's forelegs are its two front legs.
   
-- hoof
+### hoof
   - noun: The hooves of an animal such as a horse are the hard lower parts of its feet.
   
-- sculptor
+### sculptor
   - noun: A sculptor is someone who creates sculptures.
 
 - aesthetic
@@ -57,7 +57,7 @@
     - It was not the sculptor's aesthetic intentions.
     - products chosen for their aesthetic appeal as well as their durability and quality.
 
-- compromise
+### compromise
   - my understanding
     - noun: solution but it is different from what I really want.
   - dic
