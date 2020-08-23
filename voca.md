@@ -116,6 +116,25 @@
 ### superior
 ### supreme
 ### misleading
+  - my understanding
+   - adj: information or statements which contains wrong information.
+  - dic
+    - adj: If you describe something as misleading, you mean that it gives you a wrong idea or impression.
+  - examples
+    - Something can be misleading.
+    - It is misleading.
+    - The company provided misleading information.
+    - The article contains several misleading statements(표현). 
 ### perceive, perception
 ### intent, intention
+ - my understanding
+   - both can be used in the same place.
+   - intent: the level is just planning
+   - intention: the level is concrete than intent, it is last stage just before passing to action.
+ - dic
+   - intent
+   - intention
+ - examples
+   - He announced his intention to marry.
+   - It was not my intention to hurts your feeling.
 
