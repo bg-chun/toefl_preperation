@@ -97,7 +97,7 @@
 ### reproduce
 ### reflect
 ### differ
-### inferior
+
 ### burst
 ### revolutionize
 ### refine
@@ -116,6 +116,15 @@
 ### furious
    
 ### inferior
+  - my understanding
+    - adj: something/one is inferior to another thing means it's level of skills or ablity is lower than another thing.
+    - judgement and fact, both can be used with **inferior**
+  - dic
+    - adj: Something that is inferior is not as good as something else.
+  - examples
+    - The temp is inferior to 25 degree in celsius.
+      - same as : The temp is lower than 25 degree in celsius.
+    - The article says that white perceives non-white as inferior to them.
 ### superior
 ### supreme
 ### misleading
