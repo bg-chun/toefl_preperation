@@ -25,11 +25,17 @@
 ### deteriorate
   - my understanding
     - verb: something goes worse than before.
+    - active & passive both are possible, it depends on a context.
+    - 
   - dic
     - verb: If something deteriorates, it becomes worse in some way.
   - examples
     - The paint must not deteriorate, crack, or discolor.
     - Her health deteriorated rapidly, and she died shortly afterwards.
+    - My memory is deteriorating fast.
+    - My body is deteriorated by covid-19.(passive)
+    - My body gets deteriorated by covid-19.
+    - My body is getting deteriorated by covid-19.
 
 ### intrude
   - my understanding
@@ -68,7 +74,7 @@
 ### sculptor
   - noun: A sculptor is someone who creates sculptures.
 
-- aesthetic
+### aesthetic
   - adj: Aesthetic is used to talk about beauty or art, and people's appreciation of beautiful things.
   - examples
     - It was not the sculptor's aesthetic intentions.
@@ -80,3 +86,36 @@
   - dic
     - noun: A compromise is a situation in which people accept something slightly different from what they really want, because of circumstances or... 
     - verb: If you compromise with someone, you reach an agreement with them in which you both give up something that you originally wanted. You can also sa... 
+### strengthen
+### brace
+### practical
+### occupation
+### encourage
+### infuriate
+### among
+### overdue
+### reproduce
+### reflect
+### differ
+### inferior
+### burst
+### revolutionize
+### refine
+### tallow
+### alkali
+### sulfuric
+### breakthrough
+### rancid
+### odor
+### drived
+### palm oil
+
+
+### furious
+### inferior
+### superior
+### supreme
+### misleading
+### perceive, perception
+### intent, intention
+
