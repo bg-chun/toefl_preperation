@@ -33,14 +33,31 @@
 
 ### intrude
   - my understanding
-    - verb: disturb or interrupt something
+    - verb: disturb and **invade(not only physical things but also psychological things**)
   - dic
     - verb: If something intrudes on your mood or your life, it **disturbs** it or has an unwanted effect on it.
     - verb: If someone intrudes into a place, they go there even though they are not allowed to be there.
+  -drived form
+    - adj: intrusive
+    - noun: intrusion
   - examples
     - They tend to intrude upon his or her conception of the work.
     - The sound of the telephone intruded into his dreams.
     - I’m sorry to intrude, but I need to talk to someone. 
+    - I don't want to intrude your privacy(or security).
+    
+### intervene
+  - my understanding
+    - join into an event or accident to make change.
+    - **intervene doesn't has negative connotation.**
+    - intervene can be positive or negative, it depends on the situation.
+    - So **disturbe** cannot always replace **intervene**.
+  - dic
+    - If you intervene in a situation, you become involved in it and try to change it.
+    - If you intervene, you interrupt a conversation in order to add something to it.
+  - examples
+    - The situation got better, when police intervened.
+    - The Government is doing nothing to intervene in the crisis.
 
 ### foreleg
   - noun: four-legged animal's forelegs are its two front legs.
