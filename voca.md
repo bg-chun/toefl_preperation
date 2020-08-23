@@ -94,6 +94,7 @@
 ### infuriate
 ### among
 ### overdue
+  - overdue appology
 ### reproduce
 ### reflect
 ### differ
@@ -114,7 +115,8 @@
 
 
 ### furious
-   
+   - my understanding
+     - much stronger than angry(화가 치밀어오르는)
 ### inferior
   - my understanding
     - adj: something/one is inferior to another thing means it's level of skills or ablity is lower than another thing.
@@ -125,8 +127,26 @@
     - The temp is inferior to 25 degree in celsius.
       - same as : The temp is lower than 25 degree in celsius.
     - The article says that white perceives non-white as inferior to them.
+  - similar expressions
+    - inferior to
+    - specific to: 특정한/something is specific to a thing is connected with that thing only
+      - This is specific to U.S. history.
+      - Many species are specific to location.
+    - particular to: 특정한/특별한/까다로운
+      - The hazards are particular to the circumstance.
+      - This is very paricular to Long Island.
+      - She’s very particular about her clothes.
+  
 ### superior
+  - my understanding
+    - antonym of inferior
+  - examples
+    - superior room(of hotel)
+    - The accident shows that white people think they are superior to non-white races in many ways.
 ### supreme
+  - my understanding
+    - top of top
+    - the highest
 ### misleading
   - my understanding
    - adj: information or statements which contains wrong information.
