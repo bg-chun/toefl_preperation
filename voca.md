@@ -105,6 +105,8 @@
 ### alkali
 ### sulfuric
 ### breakthrough
+  - my understanding
+    - A way to overcome a limitation or restriction.
 ### rancid
 ### odor
 ### drived
@@ -112,6 +114,7 @@
 
 
 ### furious
+   
 ### inferior
 ### superior
 ### supreme
@@ -126,15 +129,28 @@
     - The company provided misleading information.
     - The article contains several misleading statements(표현). 
 ### perceive, perception
+  - my understanding
+    - verb:  see, know, notice something.
+  - dic
+    -  If you perceive something, you see, notice, or realize it, especially when it is not obvious.
+  - examples
+    - He perceive his friend as his mentor.
+    - I perceived a change in his behaviour. 
+    - This discovery was perceived as a major breakthrough
+  - perceive A as B
+    - The article says that white perceives non-white as inferior to them.
 ### intent, intention
  - my understanding
    - both can be used in the same place.
-   - intent: the level is just planning
-   - intention: the level is concrete than intent, it is last stage just before passing to action.
+   - intent(noun): the level is just planning
+   - intention(noun): the level is concrete than intent, it is last stage just before passing to action.
  - dic
-   - intent
-   - intention
+   - intent(noun): A persion's intent is their intention to do something.
+   - intention(noun): An intention is an idea or plan of what you are going to do.
  - examples
    - He announced his intention to marry.
    - It was not my intention to hurts your feeling.
+   - Unfortunately, his good intentions never seemed to last(verb) long.
+     - last(verb): If an event, situation, or problem lasts for a particular length of time, it continues to exist or happen for that length of time.
 
+  
