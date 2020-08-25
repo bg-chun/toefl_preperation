@@ -132,7 +132,7 @@
     - specific to: 특정한/something is specific to a thing is connected with that thing only
       - This is specific to U.S. history.
       - Many species are specific to location.
-    - particular to: 특정한/특별한/까다로운
+    - particular to: 특정한/**특별한**/까다로운
       - The hazards are particular to the circumstance.
       - This is very paricular to Long Island.
       - She’s very particular about her clothes.
@@ -181,5 +181,5 @@
    - It was not my intention to hurts your feeling.
    - Unfortunately, his good intentions never seemed to last(verb) long.
      - last(verb): If an event, situation, or problem lasts for a particular length of time, it continues to exist or happen for that length of time.
-
+### refuse
   
