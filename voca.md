@@ -86,6 +86,7 @@
   - dic
     - noun: A compromise is a situation in which people accept something slightly different from what they really want, because of circumstances or... 
     - verb: If you compromise with someone, you reach an agreement with them in which you both give up something that you originally wanted. You can also sa... 
+### comprise
 ### strengthen
 ### brace
 ### practical
