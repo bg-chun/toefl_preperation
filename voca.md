@@ -194,4 +194,11 @@
    - Unfortunately, his good intentions never seemed to last(verb) long.
      - last(verb): If an event, situation, or problem lasts for a particular length of time, it continues to exist or happen for that length of time.
 ### refuse
-  
+
+### nature
+  - my understanding
+    - essential property of sth
+  - dic
+    - The nature of something is its basic quality or character.
+  - example
+    - The company is planning to give employee the possibility to work from home, it depends on the nature of the work of employee.
