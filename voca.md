@@ -213,4 +213,46 @@
     - What is substance of this meeting?(metaphor/ why do we have this meeting?)
   - drived form
     - **substantial(adj)**/frequently used
+      - sth is substantial.
     - substantially(adv)
+    
+### grant
+### fine-art
+### discipline
+### constrain
+### argue
+### illustrate
+### refute
+### refuse
+### note
+### criticize
+### fulfil
+### locomotion
+### accomplish
+### treat
+### paralysis
+### undergo
+### universial
+### sense
+### arbitary
+### appearance
+### establishment
+### distribution
+### assist
+### anchor -v
+### occupy
+### volume
+### shallo
+### fibrous
+### consist of 
+### consist vs compose
+### profusely
+### branch -v
+### relatively
+### erosion
+### percolate
+### draw - pull out?
+### nutrient
+### consequence
+### circumstance
+### material vs substance
