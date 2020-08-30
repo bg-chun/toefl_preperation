@@ -205,9 +205,10 @@
 
 ### substance
   - my understanding
-    - 
+    - noun: things that compose things such as air, solid, liquid, gas, powder.
+    - noun: essence, nature
   - dic
-    - 
+    - A substance is a solid, powder, liquid, or gas with particular properties.
   - example
     - What is substance of this meeting?(metaphor/ why do we have this meeting?)
   - drived form
