@@ -202,3 +202,14 @@
     - The nature of something is its basic quality or character.
   - example
     - The company is planning to give employee the possibility to work from home, for the case that the goverment declare stage3, it depends on the nature of the work of employee.
+
+### substance
+  - my understanding
+    - 
+  - dic
+    - 
+  - example
+    - What is substance of this meeting?(metaphor/ why do we have this meeting?)
+  - drived form
+    - **substantial(adj)**/frequently used
+    - substantially(adv)
