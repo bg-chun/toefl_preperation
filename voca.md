@@ -1,6 +1,7 @@
 # Words from the Official guide to the TOEFL Test fourth edition.
 
 ## Reading section
+
 ### mass*, weight distribution
 
 ### stress
@@ -94,6 +95,7 @@
     - I refuse to compromise my principles.
     - My vision is compromised.
     - Whenever I take exam, my ability is compromised because I'm nervous.
+    - Sometimes, making a compromise helps to solve problem.
     
 ### comprise
 ### strengthen
@@ -139,10 +141,10 @@
     - The article says that white perceives non-white as inferior to them.
   - similar expressions
     - inferior to
-    - specific to: 특정한/something is specific to a thing is connected with that thing only
+    - specific to: 특정한(거기에만해당)/something is specific to a thing is connected with that thing only
       - This is specific to U.S. history.
       - Many species are specific to location.
-    - particular to: 특정한/**특별한**/까다로운
+    - particular to: 특이한/특정한/**특별한**/까다로운
       - The hazards are particular to the circumstance.
       - This is very paricular to Long Island.
       - She’s very particular about her clothes.
