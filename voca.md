@@ -82,10 +82,19 @@
 
 ### compromise
   - my understanding
+    - verb: damage, get worse
     - noun: solution but it is different from what I really want.
+    - The korean translatoin **절충** is valid for some specific context, cases, usage.
+    - The original meaning is more close to damage or get worse.
   - dic
     - noun: A compromise is a situation in which people accept something slightly different from what they really want, because of circumstances or... 
     - verb: If you compromise with someone, you reach an agreement with them in which you both give up something that you originally wanted. You can also sa... 
+  - examples
+    - Let's make a compromise.
+    - I refuse to compromise my principles.
+    - My vision is compromised.
+    - Whenever I take exam, my ability is compromised because I'm nervous.
+    
 ### comprise
 ### strengthen
 ### brace
